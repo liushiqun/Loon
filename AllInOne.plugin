@@ -4,5 +4,5 @@
 #!homepage=https://github.com/liushiqun
 #!author=liushiqun
 [Script]
-# 小米运动
-cron "15 17 * * *" script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/backUp/xmSports.js, tag=小米运动
+# 东东萌宠
+cron "15 17 * * *" script-path=https://raw.gh.fakev.cn/KingRan/KR/main/jd_pet.js, tag=东东萌宠
