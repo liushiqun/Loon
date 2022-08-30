@@ -9,4 +9,5 @@
 # 东东萌宠
 cron "15 17 * * *" script-path=https://raw.gh.fakev.cn/KingRan/KR/main/jd_pet.js, tag=东东萌宠
 http-request https:\/\/wq\.jd\.com\/user_new\/info\/GetJDUserInfoUnion script-path=https://raw.githubusercontent.com/dompling/Script/master/jd/JD_extra_cookie.js,tag=获取京东Cookie,
-
+[MITM]
+hostname = me-api.jd.com
